@@ -2,7 +2,7 @@
 const Footer = () => {
     return (
         <p>
-            Proyecto de 2º DAM A
+            Proyecto de React    2º-DAM-A
         </p>
     )
 }
